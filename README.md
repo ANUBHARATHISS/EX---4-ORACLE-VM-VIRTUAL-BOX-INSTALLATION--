@@ -92,23 +92,22 @@ Choose a strong password and re-enter it for confirmation.
 # Step 19: Login to Kali Linux
 1. Once the machine reboots, you’ll be presented with a login screen.
 2. Log in using the root account and the password you set earlier.
-
+<img width="1299" height="1031" alt="image" src="https://github.com/user-attachments/assets/ffaa27b1-dbac-48ce-885c-f9c63fb67f28" />
 
 ## .sh method
 
-<img width="582" height="337" alt="image" src="https://github.com/user-attachments/assets/14596938-1c3a-433f-8377-9e18fbdd208e" />
+<img width="318" height="203" alt="image" src="https://github.com/user-attachments/assets/08da2851-2a61-4af0-9945-f0dbb1559271" />
+
 
 # expected output:
 
-<img width="332" height="223" alt="image" src="https://github.com/user-attachments/assets/4270527d-132b-4bb2-9655-abd98dff4486" />
+<img width="506" height="249" alt="image" src="https://github.com/user-attachments/assets/e1072e83-b234-42ca-ab62-f2b77ec305be" />
 
 
 ## terminal method :
 
-<img width="606" height="518" alt="image" src="https://github.com/user-attachments/assets/061bdb56-59b6-46e6-9b76-ac67379b2241" />
+<img width="616" height="521" alt="image" src="https://github.com/user-attachments/assets/3c689b1d-bfd6-448b-ba86-7a5022ed8ef9" />
 
 
 ## RESULT:
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
-
-
